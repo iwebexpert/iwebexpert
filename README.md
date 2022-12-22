@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey 👋👋👋
+### This is Igor
+[![Github Badge](https://img.shields.io/badge/-iwebexpert-grey?style=flat&logo=github&logoColor=white&link=https://github.com/iwebexpert/)](https://www.github.com/iwebexpert/) <p align='left'>I'm a Full Stack Software Engineer (Node.js, TypeScript, React.js) and co-founder of an IT company.</p>
+## Some of my Github Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwebexpert&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iwebexpert&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iwebexpert&theme=solarized_dark)
 
 <!--
 **iwebexpert/iwebexpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
